@@ -84,4 +84,4 @@ Rama de Producción: main.
 
 Proceso: Cada cambio significativo requiere un Pull Request y su posterior Merge a main para detonar el despliegue automático a la nube.
 
-# Panel de Administración Central - Innovatech Chile.
+### Panel de Administración Central - Innovatech Chile.
